@@ -1,21 +1,26 @@
 
-.impresora-text{
-    font-size: 30px;
-    text-align: center;
-}
-body{
-    background-color: #d86f6d !important;
-}
-.fila-resi-text{
-    font-size: 30px;
+    .impresora-text{
+        font-size: 30px;
+        text-align: center;
+    }
+    body{
+        background-color: #d86f6d !important;
+    }
+    .fila-resi-text{
+        font-size: 30px;
 
-    text-align: center;
-}
-.fila-resi-img{
+        text-align: center;
+    }
+    .fila-resi-img{
 
-    width: 300px;
-}
-.titulo{
-    font-size: 100px;
-}
-
+        width: 300px;
+    }
+    .titulo{
+        font-size: 100px;
+    }
+    .tipos-img{
+        width: 600px;
+    }
+    .text-mid{
+        font-size: 30px;
+    }
